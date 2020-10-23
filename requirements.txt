@@ -1,0 +1,7 @@
+Flask==1.1.2
+Flask-Bootstrap==3.3.7.1
+Jinja2==2.11.2
+requests==2.18.4
+urllib3==1.22
+gunicorn
+flask_sqlalchemy
